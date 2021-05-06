@@ -28,7 +28,7 @@ app.get('/api/customers', (req, res) => {
       id: '3',
       image: 'http://placeimg.com/64/64/3',
       name: '이순신',
-      birthday: '9401204',
+      birthday: '941204',
       gender: '남자',
       job: '프리랜서',
     },
